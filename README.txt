@@ -1,8 +1,4 @@
-THEME: Atlantis - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uicookies.com/
-
-
+Project name: Hotels
 CREDITS:
 
 Bootstrap
